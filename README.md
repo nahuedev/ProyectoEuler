@@ -1,4 +1,4 @@
-# Repositorie of solution  to the  Project Euler .
+# Repository of solution  to the  Project Euler .
 
 
 [About Project Euler ](https://projecteuler.net/about)
