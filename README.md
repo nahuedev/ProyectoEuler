@@ -12,5 +12,5 @@
 
 |     ID        | Title                                         | Language|
 |---------------|:-------------------------------------------:  | -------:|
-| *1*           | [**Multiples of 3 and 5** ](../master/js/euler#1.js)  |  `JS`   |
+| *1*           | [**Multiples of 3 and 5** ](../master/js/euler1.js)  |  `JS`   |
 | *2*           | **Even Fibonacci numbers**                    |  `JS`   |
